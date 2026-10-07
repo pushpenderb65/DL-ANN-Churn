@@ -116,7 +116,7 @@ This project is currently unlicensed. If you plan to distribute or reuse it publ
 
 ## Author
 
-Pushpender Bhadana
+Pushpender Bhardwaj
 
 ## Future Improvements
 
